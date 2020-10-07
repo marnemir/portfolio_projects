@@ -15,9 +15,9 @@
 #### Краткий план работы:
 - Шаг 1. Открытие и изучение файла
 - Шаг 2. Исследование моделей
-  - 1. Решающее дерево (DecisionTreeClassifier)
-  - 2. Случайный лес (RandomForestClassifier)
-  - 3. Логистическая регрессия (LogisticRegression)
+ - 1. Решающее дерево (DecisionTreeClassifier)
+ - 2. Случайный лес (RandomForestClassifier)
+ - 3. Логистическая регрессия (LogisticRegression)
 - Шаг 3. Проверка моделей на тестовой выборке
 
 
