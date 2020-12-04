@@ -31,6 +31,6 @@
 
 **Статус проекта**: проект завершён.  
 
-**Используемые библиотеки**: *numpy*, *pandas*, *matplotlib*, *statsmodels*, *sklearn*, *lightgbm*
+**Используемые библиотеки**: *numpy*, *pandas*, *matplotlib*, *datetime*, *holidays*, *fbprophet*, *statsmodels*, *sklearn*, *lightgbm*
 
 **Источник данных**: [курс Data Science от Яндекс.Практикум](https://praktikum.yandex.ru/profile/data-scientist/)
