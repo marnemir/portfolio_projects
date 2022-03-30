@@ -1,12 +1,12 @@
-# Содержание портфолио
+# Portfolio content
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии **"Специалист по Data Science"**.
+These projects were carried out during the training in Yandex.Praktikum, course "Data Science Specialist"
 
-| Номер проекта | Название проекта | Описание | Цель | Используемые библиотеки |
+| Project # | Project Name | Description | Objective | Libraries |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-|1| [Research of reliability](01_clients_credit_rating) | Research of reliability of customers from different socio-economic groups | Сделать предобработку данных и вывести информацию по доле должников для выделенных групп | *numpy*, *pandas*, *matplotlib*, *pymystem3*, *collections*|
-|2| [Исследование объявлений о продаже квартир](02_sales_apartments_spb)| Проведение исследовательского анализа данных для объявлений о продаже квартир | Изучить основные характеристики и ответить на исследовательские вопросы | *numpy*, *pandas*, *matplotlib* |
-|3| [Исследование перспективных тарифов для телеком компании](03_mobile_plan_research) | Исследование поведения пользователей тарифов | Описать поведение пользователей по двум тарифам и протестировать несколько гипотез | *numpy*, *pandas*, *matplotlib*, *math*, *scipy*|
+|1| [Research of reliability](01_clients_credit_rating) | Research of reliability of customers from different socio-economic groups | Data preprocessing and calculation of debtors' share for each group | *numpy*, *pandas*, *matplotlib*, *pymystem3*, *collections*|
+|2| [Research of advertisements for apartment sales](02_sales_apartments_spb)| Research analysis of data for apartment sales | Study the main characteristics and answer research questions | *numpy*, *pandas*, *matplotlib* |
+|3| [Research of prospective options for telecom company](03_mobile_plan_research) | Исследование поведения пользователей тарифов | Описать поведение пользователей по двум тарифам и протестировать несколько гипотез | *numpy*, *pandas*, *matplotlib*, *math*, *scipy*|
 |4| [Изучение рынка видеоигр](04_game_industry_market)| Планирование рекламной кампании в сфере видеоигр | Изучить рынок и определить наиболее прибыльные жанры и платформы для регионов (Северная Америка, Европа, Япония) | *numpy*, *pandas*, *matplotlib*, *seaborn*, *collections*, *scipy* |
 |5| [Рекомендация актуальных тарифов](05_mobile_operator_recommend) | Рекомендация оптимального тарифа из актуальных тарифных планов | Построить модель для задачи классификации, рекомендующую оптимальный тариф | *numpy*, *pandas*, *matplotlib*, *seaborn*, *sklearn* |
 |6| [Прогноз оттока клиентов](06_bank_clients_churn)| Прогнозирование ухода клиентов из банка | Построить модель, предсказывающую уход клиента из банка, со значением F1-меры не ниже 0.59 | *numpy*, *pandas*, *matplotlib*, *seaborn*, *re*, *scipy*, *sklearn*, *lightgbm* |
