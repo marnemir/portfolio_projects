@@ -4,7 +4,7 @@ These projects were carried out during the training in Yandex.Praktikum, "Data S
 
 | Project # | Project Name | Description | Objective | Libraries |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-|1| [Research of reliability](01_clients_credit_rating) | Research of reliability of customers from different socio-economic groups | Data preprocessing and calculation of debtors' share for each group | *numpy*, *pandas*, *matplotlib*, *pymystem3*, *collections*|
+|1| [Research of clients' reliability](01_clients_credit_rating) | Research of reliability of clients from different socio-economic groups | Data preprocessing and calculation of debtors' share for each group | *numpy*, *pandas*, *matplotlib*, *pymystem3*, *collections*|
 |2| [Advertisements for apartment sales](02_sales_apartments_spb)| Research analysis of data for apartment sales | Study the main characteristics and answer research questions | *numpy*, *pandas*, *matplotlib* |
 |3| [Prospective options for telecom company](03_mobile_plan_research) | Study of the behaviour of telecom company's customers | Describe customer behaviour for two calling plans and test several hypothesis | *numpy*, *pandas*, *matplotlib*, *math*, *scipy*|
 |4| [Video game market research](04_game_industry_market)| Planning an advertising campaign in video game industry | Explore the market and identify the most profitable genres and platforms for the regions (North America, Europe, Japan) | *numpy*, *pandas*, *matplotlib*, *seaborn*, *collections*, *scipy* |
